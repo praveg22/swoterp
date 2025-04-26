@@ -8,6 +8,16 @@ app_license = "mit"
 # Apps
 # ------------------
 
+
+
+fixtures = [
+    {
+        "dt": "Onboarding Step"
+    }
+]
+# dt => doctype
+# name => name
+
 # required_apps = []
 
 # Each item in the list will be shown as an app in the apps page
