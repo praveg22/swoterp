@@ -13,6 +13,9 @@ app_license = "mit"
 fixtures = [
     {
         "dt": "Onboarding Step"
+    },
+    {
+        "dt": "Module Onboarding",
     }
 ]
 # dt => doctype
